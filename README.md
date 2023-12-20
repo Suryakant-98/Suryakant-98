@@ -1,6 +1,4 @@
-#### Hi 👋, I'm
-
-# **Surya**
+#### Hi 👋, I'm Surya
 
 ## Frontend Developer
 
