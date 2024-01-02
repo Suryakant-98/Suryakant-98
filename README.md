@@ -4,7 +4,7 @@
 
 I'm a front-end developer looking for an opportunity to contribute to the process and deliver great results.
 
-- 🌱 I’m currently learning Vue.JS
+- 🌱 I’m currently learning React
 - 👯 I look forward to collaborating on front-end Projects
 - 📫 Reach me: suryakant.v98@gmail.com
 - ⚡ Mantra: Progress over perfection.
